@@ -1,4 +1,4 @@
-![.NET Core](https://github.com/aimenux/WebFormsDemo/workflows/.NET%20Core/badge.svg)
+![CI](https://github.com/aimenux/WebFormsDemo/workflows/CI/badge.svg)
 # WebFormsDemo
 ```
 Old memories about webforms
